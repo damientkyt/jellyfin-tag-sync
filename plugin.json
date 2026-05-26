@@ -1,0 +1,9 @@
+{
+  "guid": "c1c9fbd7-3bb5-4df3-b36c-29f8efeb0f72",
+  "name": "TMDB Tag Sync",
+  "description": "Sync TMDB keywords into Jellyfin tags",
+  "version": "1.0.0.0",
+  "targetAbi": "10.11.0.0",
+  "framework": "net8.0",
+  "owner": "damientkyt"
+}
